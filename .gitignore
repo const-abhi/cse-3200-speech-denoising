@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw datasets
+data/raw/
+
+# Generated/processed audio
+data/processed/
+*.wav
+*.flac
+*.mp3
+
+# Large model files
+*.pt
+*.pth
+*.ckpt
+
+# Temporary files
+*.tmp
+*.log
